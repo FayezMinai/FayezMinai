@@ -11,4 +11,4 @@ I’m a recent Electrical Engineering graduate from Carleton University actively
 🔗 **LinkedIn:** [Mohammad Fayez Minai](https://www.linkedin.com/in/mohammad-fayez-minai-34a094348)   
 📫 **Email:** mohfayezminai@gmail.com 
 
-Thanks for stopping by, and feel free to explore my projects below! 
+Thanks for stopping by, and feel free to explore my projects!
